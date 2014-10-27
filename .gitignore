@@ -1,0 +1,6 @@
+*.user
+*.pdb
+*.suo
+*.opensdf
+*.sdf
+out
